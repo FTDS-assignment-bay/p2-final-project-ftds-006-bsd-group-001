@@ -59,7 +59,7 @@ COMMENT ON COLUMN finalproject."Q23" IS 'In order to invest, I often compare pri
 COMMENT ON COLUMN finalproject."Q24" IS 'In order to invest, I often consider whether the stock prices are valuable when I sell it';
 COMMENT ON COLUMN finalproject."Q25" IS 'In order to invest, I often understanding the fundamental analysis';
 COMMENT ON COLUMN finalproject."Q26" IS 'I always have money available in the event of my failed investment';
-COMMENT ON COLUMN finalproject."Q27" IS 'In rder to invest, I plan to manage my expenses';
+COMMENT ON COLUMN finalproject."Q27" IS 'In order to invest, I plan to manage my expenses';
 COMMENT ON COLUMN finalproject."Q28" IS 'I save my money in order to do investment';
 COMMENT ON COLUMN finalproject."Q29" IS 'I invest to achieve certain goals';
 COMMENT ON COLUMN finalproject."Q30" IS 'I have some investment account in money market and also capital market';
