@@ -103,6 +103,12 @@ fluent_datasources:
       FinalPro:
         type: csv
         filepath_or_buffer: survey_cleaned_data.csv
+  finalProject01:
+    type: pandas
+    assets:
+      FinalProject:
+        type: csv
+        filepath_or_buffer: survey_financial_ref_dataset_clustered.csv
 notebooks:
 include_rendered_content:
   globally: false
